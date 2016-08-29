@@ -1,5 +1,3 @@
-package ctci;
-
 // O(n*log(n))
 public class MergeSort {
 	public static void main(String[] args) {
